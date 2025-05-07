@@ -5,3 +5,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] RENDIR PRUEBAS
+- [ ] VICIAR CON IGNA 
+- [ ] EL VIERNES
+- [ ] EL SABADO
+- [ ] Y DOMINGO
+- [ ] BLACK OPS 6
